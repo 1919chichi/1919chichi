@@ -1,5 +1,8 @@
 # Hi, I'm frizz19 👋
 
+> 🟢 Open to Work — Looking for AI / Backend Engineer roles
+> 目前正在求职，欢迎 AI / 后端方向的机会
+
 **AI Full-stack Developer | Backend Engineer**  
 **AI 全栈开发者 / 后端工程师**
 
